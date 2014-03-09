@@ -1,0 +1,223 @@
+{text:'Novaintermed',
+ children: [
+    {
+        department_employee:'Director General',
+        iconCls:'task-folder',
+        expanded: true,
+        children:[
+		{
+			department_employee:'Director Executiv',
+			iconCls:'task-folder',
+			expanded: true,
+			children:[
+			{
+				department_employee:'Departamentul Vanzari',
+				iconCls:'task-folder',
+				expanded: true,
+				children:[
+				{
+					department_employee:'Sales Manager',
+					iconCls:'task-folder',
+					expanded: true,
+					children:[
+					{
+						department_employee:'Responsabil Aprovizionare',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Product Manager',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Key Acount Manager',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Specialist Aplicatii',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Reprezentant Vanzari',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Responsabil Relatii Clienti',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Responsabil Evaluare Externa a Calitatii',
+						iconCls:'task',
+						leaf: true
+					}
+					]
+				}
+				]
+			},
+			{
+				department_employee:'Departamentul Marketing-Dezvoltare',
+				iconCls:'task-folder',
+				expanded: true,
+				children:[
+				{
+					department_employee:'Director Deptament Marketing Dezvoltare',
+					iconCls:'task-folder',
+					expanded: true,
+					children:[
+					{
+						department_employee:'Compartiment Marketing',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Asistent dezvoltare si analiza',
+						iconCls:'task',
+						leaf: true
+					}
+					]
+				}
+				]
+			},
+			{
+				department_employee:'Departamentul Proiecte Speciale si Licitatii',
+				iconCls:'task-folder',
+				expanded: true,
+				children:[
+				{
+					department_employee:'Coordonator Departament Proiecte Speciale si Licitatii',
+					iconCls:'task-folder',
+					expanded: true,
+					children:[
+					{
+						department_employee:'Compartiment Proiecte Speciale',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Compartiment Licitatii',
+						iconCls:'task',
+						leaf: true
+					}
+					]
+				}]
+			},
+			{
+				department_employee:'Compartimentul Juridic si Regulatory Affairs',
+				iconCls:'task-folder',
+				leaf: true
+			},
+			{
+				department_employee:'Departamentul Suport si Logistica',
+				iconCls:'task-folder',
+				expanded: true,
+				children:[
+				{
+					department_employee:'Coordonator Departament Suport si Logistica',
+					iconCls:'task-folder',
+					expanded: true,
+					children:[
+					{
+						department_employee:'Administrator I.T.',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Responsabil Facturare',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Responsabil Protectia Muncii',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Ingrijitor',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Secretariat',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Responsabil Vama',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Responsabil Depozite',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Responsabil Transport',
+						iconCls:'task',
+						leaf: true
+					}
+					]
+				}
+				]
+			},
+			{
+				department_employee:'Compartimentul Service',
+				iconCls:'task-folder',
+				expanded: true,
+				children:[
+				{
+					department_employee:'Coordonator Compatimentul Service',
+					iconCls:'task-folder',
+					expanded: true,
+					children:[
+					{
+						department_employee:'Ingineri Service aparatura medicala',
+						iconCls:'task',
+						leaf: true
+					},
+					{
+						department_employee:'Ingineri Service IT',
+						iconCls:'task',
+						leaf: true
+					}
+					]
+				}
+				]
+			},
+			{
+				department_employee:'Compartimentul Financiar Contabil',
+				iconCls:'task-folder',
+				expanded: true,
+				children:[
+				{
+					department_employee:'Coordonator Compartiment Financiar Contabil',
+					iconCls:'task-folder',
+					expanded: true,
+					children:[
+					{
+						department_employee:'Contabili',
+						iconCls:'task',
+						leaf: true
+					}
+					]
+				}
+				]
+			}]
+        },
+		{
+			department_employee:'Compartiment Management Integrat',
+			iconCls:'task-folder',
+			leaf: true
+        },
+		{
+			department_employee:'Compartiment Resurse Umane',
+			iconCls:'task-folder',
+			leaf: true
+        }]
+    }
+]}

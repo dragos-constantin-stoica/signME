@@ -1,0 +1,4 @@
+[
+	{"previousState": "solicitareNumerarTemplate", "nextState": "wat", "nodeId": "aprobareNumerar", "nodeName": "In asteptare aprobare numerar", "assignee": "departament", "assigneeKey": "Vanzari", "assigneeName": "Vanzari", "finalNode": true},
+	{"previousState": "", "nextState": "", "nodeId": "wat", "nodeName": "no idea wat happening", "assignee": "departament", "assigneeKey": "IT", "assigneeName": "IT", "finalNode": true},
+]

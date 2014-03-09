@@ -1,0 +1,55 @@
+Solicitare numerar
+
+Data solicitarii : {data_solicitare}
+
+Nume si prenume: {nume_solicitant}
+
+Departament: {departament_solicitant}
+
+Functia: {functie_solicitant}
+
+Suma solicitata: {suma_solicitata}
+
+Suma se utilizeaza:
+
+Avans spre decontare cheltuieli de deplasare:
+
+Cazare
+Diurna
+Avans spre decontare protocol:
+
+Avans spre decontare pentru nr. auto:
+
+Reparatii
+Piese
+Revizii
+Combustibili,lubrefianti,aditivi
+Avans spre decontare achizitii piese calculator:
+
+Nume utilizator:
+Avans spre decontare materiale birotica:
+?Achizitii echipamente:
+
+Avans spre decontare plati furnizori marfa:
+
+Nume furnizor:
+Denumire produse:
+Obligatii vamale:
+?Comisioane punctuale:
+Taxe notariale,legalizari:
+Avans salarii:
+Taxe postale:
+
+Alte cheltuieli:
+
+{alte_cheltuieli}
+
+ 
+
+Semnatura solicitant,
+{semnatura_solicitant}
+Aprobat de: {nume_sef}
+
+{semnatura_sef}
+
+Data aprobarii: {data_aprobare}

@@ -1,0 +1,10 @@
+{
+    "data": [
+        {"nume":"Andrei", "prenume": "Popa", "sex": "M", "varsta": 22, "mail": "andrei.popa@yahoo.com", "tara": "Romania", "localitate": "Bucuresti", "adresa": "Calea victoriei, nr 2", "telefon": "0721.321.412", "username": "andrei_popa"},
+        {"nume":"Marius", "prenume": "Ionescu", "sex": "M", "varsta": 31, "mail": "marius.ionescu@yahoo.com", "tara": "Romania", "localitate": "Ianca", "adresa": "Alea zamfir, nr 1, bl 2, sc 1, ap 7", "telefon": "0745.213.456", "username":"marius_ionescu"},
+        {"nume":"Andrei", "prenume": "Trandafir", "sex": "M", "varsta": 52, "mail": "andrei.trandafir@yahoo.com", "tara": "Romania", "localitate": "Succeava", "adresa": "Strada mircea-voda, nr 1, bl a9, sc 4, ap 12", "telefon": "0745.213.456", "username":"andrei_trandafir"},
+        {"nume":"Andrea", "prenume": "Paul", "sex": "F", "varsta": 18, "mail": "andrea.paul@yahoo.com", "tara": "Romania", "localitate": "Buzau", "adresa": "Bulevardul istoriei, nr 2, bl 2, sc 1, ap 9", "telefon": "0745.213.456", "username":"andrea_paul"},
+        {"nume":"Marcel", "prenume": "Tudor", "sex": "M", "varsta": 35, "mail": "marcel.tudor@yahoo.com", "tara": "Romania", "localitate": "Bucuresti", "adresa": "Bulevardul iuliu-maniu, nr 2, sc 5, ap 21", "telefon": "0745.213.456", "username":"marcel_tudor"},
+        {"nume":"Mirela", "prenume": "Ion", "sex": "F", "varsta": 27, "mail": "mirela.ion@yahoo.com", "tara": "Romania", "localitate": "Bucuresti", "adresa": "Alea Zorelelor, nr 2a, bl 1, sc 2, ap 31", "telefon": "0745.213.456", "username":"mirela_ion"}
+    ]
+}

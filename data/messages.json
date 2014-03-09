@@ -1,0 +1,12 @@
+{
+"data": [
+    {"sender":"Andrei Popa", "message": "Acesta e un mesaj de test", "receiver":"andrei_popa", "document": "Exemplu.doc"},
+    {"sender":"Ion Faur", "message": "Acesta este inca un mesaj de test sa vad daca merge", "receiver":"andrei_popa", "document": "Exemplu_2.doc"},
+    {"sender":"System administrator", "message": "Si inca unul ca sa te mai sacai un pic sa vad daca e totul ok", "receiver":"andrei_popa", "document": "Exemplu_2002.doc"},
+    {"sender":"System administrator", "message": "Si inca unul ca sa te mai sacai un pic sa vad daca e totul ok", "receiver":"catalin_viorel", "document": "Exemplu_2002.doc"},
+    {"sender":"Andrei Popa", "message": "Acesta e un mesaj de test", "receiver":"marius_nita", "document": "Exemplu.doc"},
+    {"sender":"Ion Faur", "message": "Acesta este inca un mesaj de test sa vad daca merge", "receiver":"andrei_popa", "document": "Exemplu_2.doc"},
+    {"sender":"System administrator", "message": "Si inca unul ca sa te mai sacai un pic sa vad daca e totul ok", "receiver":"iulia_pop", "document": "Exemplu_2002.doc"},
+    {"sender":"System administrator", "message": "Si inca unul ca sa te mai sacai un pic sa vad daca e totul ok", "receiver":"bogdan_radu", "document": "Exemplu_2002.doc"}
+]
+}
