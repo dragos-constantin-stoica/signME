@@ -1,3 +1,6 @@
+![alt text](https://github.com/dragos-constantin-stoica/signME/blob/master/resources/img/logo_nova.png "signME Logo")
+
+
 signME
 ======
 
